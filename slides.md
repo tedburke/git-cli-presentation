@@ -18,4 +18,9 @@ Although the term "CLI" applies more generally, I'm mostly talking about a shell
 - Development: gcc, gdb, python, git
 - Other: pandoc, octave
 
-## 
+## Philosophy
+
+![Unix philosophy summary](unix_philosophy.png)
+
+![Axes propped against a tree](Felling_axe.jpg)
+
