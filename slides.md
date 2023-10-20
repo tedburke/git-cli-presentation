@@ -1,3 +1,21 @@
+---
+title:
+- Git and the Command Line
+author:
+- Ted Burke
+date:
+- Fri 20 Oct 2023
+theme:
+- default
+fonttheme:
+- structurebold
+colortheme:
+- default
+header-includes:
+- \setbeamercolor{normal text}{fg=black,bg=yellow!15}
+
+---
+
 # Git and the Command Line
 
 ## Contents
