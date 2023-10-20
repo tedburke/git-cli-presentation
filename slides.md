@@ -16,7 +16,7 @@ header-includes:
 
 ---
 
-# Git and the Command Line
+# Git is great!
 
 ## Contents
 
