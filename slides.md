@@ -40,5 +40,26 @@ Although the term "CLI" applies more generally, I'm mostly talking about a shell
 
 ![Unix philosophy summary](unix_philosophy.png)
 
-![Axes propped against a tree](Felling_axe.jpg)
+## Philosophy
+
+"Give me six hours to fell a tree and I'll spend the first four sharpening the axe." - (frequently attributed to) Abraham Lincoln
+
+![But which one is the magic axe?](Felling_axe.jpg){width=40%}
+
+## Vim Superpowers
+
+![Vim logo](vimlogo.png){width=25%}
+
+Vim is optimised for text editing rather than text entry.
+
+- modes
+- motions / text objects
+- shell integration: commands, filters, terminal
+
+## Demo: Auto update website from github repo
+
+- Web pages are stored on github repo.
+- Clone repo to local machine for editing.
+- Push changes back to github.
+- Browse to "tedz.eu/stemensemble/update.php" to automatically clone pages to web host.
 
